@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey I'm Adam. My first name has 4 letters. My last name has 12 letters. As you can tell, I'm good with data.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Favourite branch of mathematics? Linear algebra, like a good data scientist. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[athorsteinson@brainstation.io](mailto:athorsteinson@brainstation.io)
